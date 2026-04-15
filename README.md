@@ -110,7 +110,7 @@ This profile integrates a lightweight analytics layer to measure engagement and 
 
 ### 🔢 Profile Reach
 
-> **Total Profile Views:** *{viewsCount}* *(till date)*
+> **Total Profile Views:** *{(https://visitor-badge.laobi.icu/badge?page_id=ankitsharma706.ankitsharma706)}* *(till date)*
 
 This metric reflects cumulative visits and overall reach across the developer portfolio.
 
