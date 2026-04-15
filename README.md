@@ -102,6 +102,38 @@ If your team is working on something like this and needs a full-stack engineer w
 </div>
 
 ---
+---
+
+## 📊 Profile Analytics
+
+This profile integrates a lightweight analytics layer to measure engagement and visibility across projects and interactions.
+
+### 🔢 Profile Reach
+
+> **Total Profile Views:** *{viewsCount}* *(till date)*
+
+This metric reflects cumulative visits and overall reach across the developer portfolio.
+
+---
+
+### ⚙️ Tracking Overview
+
+* Counts each profile visit in real time
+* Designed for scalability and low-latency updates
+* Can be integrated with backend systems like **ASSAVA**
+* Extendable with **AFTERMA** for advanced analytics and insights
+
+---
+
+### 🚀 Future Enhancements
+
+* 👤 Unique visitor tracking
+* 📈 Daily / monthly growth analytics
+* 🔥 Engagement trends and activity insights
+* 🧠 AI-powered recommendations using AFTERMA
+
+---
+
 
 ## Connect
 
