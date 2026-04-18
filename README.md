@@ -24,19 +24,27 @@
 
 ---
 
+
 ## 👋 About Me
 
-I'm a full-stack engineer based between Bhubaneswar and Jamshedpur, building AI-powered systems, blockchain banking infrastructure, and scalable web applications. I focus on turning real-world infrastructure problems — mobility, finance, workforce, and urban systems — into production-grade products with serious technical depth.
+I am a full-stack engineer based between Bhubaneswar and Jamshedpur, India, building AI-powered systems, blockchain banking infrastructure, and scalable web applications. I focus on turning real-world infrastructure problems — mobility, finance, workforce, and urban systems — into production-grade products with serious technical depth.
 
-I don't build toy projects or demos. Every system I build is aimed at solving a problem that affects real people, real industries, and real economies. I work across the entire stack — from React component architecture and Redux state management to distributed backend design, database optimization, ML API integration, and smart contract development.
+My engineering philosophy is simple: **build things that matter, at scale, with precision**. I do not build toy projects or academic demos. Every line of code I write is aimed at solving a problem that affects real people, real industries, and real economies.
 
-- 🔭 **Currently building** — DeFi Banking Gateway (US market), Smart City Mobility APIs, ASSAVA workforce platform for the steel industry
-- 🌱 **Currently learning** — Advanced Graph Algorithms & Flow Networks, ARM & 8086 Architecture, High-Scale Distributed System Design, ZK-SNARKs, Graph Neural Networks
-- 👯 **Looking to collaborate on** — AI/ML systems, compliant DeFi infrastructure, high-scale architecture, smart city technology
-- 💬 **Ask me about** — React, Redux, Node.js, backend systems, real-world product building, US fintech regulation, blockchain banking
-- 📫 **Reach me at** — [ankitwhatsapps@gmail.com](mailto:ankitwhatsapps@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ankitsharma706/)
+Over the past few years, I have built across verticals that most engineers treat as separate disciplines — smart city mobility APIs, ML-driven workforce platforms for the steel industry, and now decentralized banking infrastructure targeting the United States financial system. These are not surface-level integrations. They involve deep system design, regulatory awareness, algorithm engineering, and thoughtful product decisions.
+
+I am actively looking to join teams working on advanced, ambitious projects. If you are building non-trivial systems in AI, blockchain, fintech, or infrastructure and need a serious full-stack contributor, reach out. I am ready to move fast, go deep, and ship things that work in production.
+
+**What makes me different from most full-stack engineers:**
+
+- I think in systems, not just in features. Before writing code, I design for scale, fault tolerance, and evolution.
+- I work across the entire stack — from React component architecture and Redux state management to distributed backend design, database optimization, and ML API integration.
+- I understand regulated industries. Building for the steel workforce sector and US financial markets has given me exposure to compliance requirements, audit trails, and data governance that most engineers never encounter.
+- I study the fundamentals aggressively — currently working through advanced graph algorithms, flow networks, ARM architecture, and distributed systems theory.
+- I ship. Not just prototypes, not just demos — working systems deployed to real infrastructure.
 
 ---
+
 
 ## 🚀 Upcoming Projects
 
@@ -413,20 +421,61 @@ I write about the intersection of engineering and real-world systems — not beg
 
 This profile integrates AFTERMA analytics — tracking profile reach, project engagement, and visitor trends. Unique visitor tracking, geographic heatmaps, and AI-powered engagement insights coming as AFTERMA ships.
 
+
+
+## 🤝 Open to Collaboration
+
+I am looking to work with teams and engineers focused on advanced development — not feature sprints on CRUD apps, but projects involving genuine engineering depth. Specifically:
+
+**What I am looking for:**
+
+- **AI/ML systems** with real-world deployment challenges — not just Python notebooks, but production ML pipelines handling live data at scale
+- **Blockchain/DeFi** infrastructure, especially US-regulated products that combine smart contract development with compliance engineering
+- **High-scale system design** projects where the architecture decisions are genuinely hard — sharding, eventual consistency, real-time data processing
+- **Smart city / mobility** technology, particularly integrations with government data systems or sensor networks
+- **Research-backed engineering** — projects where the problem is hard enough that reading papers is part of the job
+
+**What I bring:**
+
+- Full-stack capability: I can own a feature from database schema to deployed UI
+- Cross-domain thinking: I connect ideas from finance, systems, algorithms, and product
+- Speed without sloppiness: I move fast but I document, test, and design for maintainability
+- Communication: I write clearly and explain technical decisions to non-technical stakeholders
+
+If your team is working on something like this, reach out via [LinkedIn](https://www.linkedin.com/in/ankitsharma706/) or [email](mailto:ankitwhatsapps@gmail.com).
+
 ---
-## 📬 Contact & Collaboration
 
-I respond to every genuine outreach. If you are:
+## 🏗 System Design Approach
 
-- A **team building something ambitious** and need a full-stack engineer who can contribute at depth — reach out with what you are working on
-- An **investor or advisor** interested in the DeFi Banking, Smart City, or Workforce Technology spaces — happy to discuss the market and technical thesis
-- An **engineer** who wants to talk through architecture, algorithms, or career strategy — I enjoy these conversations
-- A **researcher** working on problems related to my interests (graph algorithms, AML detection, urban mobility) — always open to cross-disciplinary discussions
-- A **potential user** of any of the platforms described above — your feedback is invaluable at this stage
+When I approach a new system, I follow a structured design process:
 
-**Response time:** LinkedIn within 24 hours, email within 48 hours.
+**Phase 1: Requirements Clarification**
+- Functional requirements: what does the system need to do?
+- Non-functional requirements: latency, throughput, availability, consistency requirements?
+- Scale estimates: read/write ratio, data volume, user count?
+- Compliance requirements: data residency, audit logging, regulatory constraints?
 
-> Based in Bhubaneswar & Jamshedpur, India · Available remotely across India and globally · Open to relocating for the right opportunity
+**Phase 2: High-Level Architecture**
+- Identify the core data entities and their relationships
+- Choose data stores based on access patterns (not habit)
+- Design the API surface — RESTful for CRUD, GraphQL for complex queries, WebSocket for real-time
+- Identify the system's bottlenecks before they appear
+
+**Phase 3: Detailed Component Design**
+- Database schema with indexing strategy
+- Caching layer design: what to cache, TTL strategy, cache invalidation
+- Authentication and authorization model
+- Background job architecture for async processing
+
+**Phase 4: Scaling and Reliability**
+- Horizontal vs. vertical scaling decisions per component
+- Load balancing strategy
+- Failure modes and recovery procedures
+- Observability: metrics, logging, tracing
+- Deployment strategy: blue-green, canary, rolling
+
+This is not a checklist I follow for every small project — it is the mental model I apply proportionally based on the complexity and criticality of what I am building.
 
 ---
 
