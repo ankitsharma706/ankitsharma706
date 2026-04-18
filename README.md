@@ -171,9 +171,27 @@ I don't build toy projects or demos. Every system I build is aimed at solving a 
 
 ---
 
-## 🛠️ Tech Stack
 
-**Languages**
+## 🚀 Upcoming Projects
+
+| Project | Domain | Description | Stack | Status |
+|---|---|---|---|---|
+| **DeFi Banking Gateway** | Blockchain · Fintech · USA | Compliant DeFi-to-bank infrastructure for US consumers — wallet bridging, KYC, stablecoin transfers | Solidity, Next.js, Ethers.js, Plaid API | 🟡 Building |
+| **AML Intelligence Engine** | AI · RegTech · USA | GNN-powered Anti-Money Laundering for US FIs — SAR automation, OFAC screening | Python, GNN, Node.js, MongoDB | 🟡 Building |
+| **Urban Flow API v2** | Smart City · Mobility | Real-time traffic prediction, EV routing, smart city logistics | Next.js, MongoDB, Firebase, Python | 🟢 In Progress |
+| **ASSAVA Platform** | Steel Industry · HR Tech | ML job-matching and workforce management for Indian steel | React, Redux, Node.js, MongoDB | 🟢 In Progress |
+| **On-Chain Identity Protocol** | Web3 · Identity | ZK-proof identity layer — verifiable credentials, wallet-native auth | Solidity, Circom, IPFS, Next.js | 🟡 Planned |
+| **AFTERMA Analytics** | AI · Developer Tools | Advanced engagement analytics with AI insights for developer products | Node.js, Redis, Python, Next.js | 🟡 Planned |
+| **Carbon Credit Marketplace** | Climate · Blockchain | Tokenized carbon credit trading platform for Indian industries | Solidity, Next.js, The Graph | 🟡 Planned |
+| **Steelchain** | Supply Chain · Blockchain | Transparent, on-chain supply chain provenance for steel products | Solidity, Node.js, MongoDB | 🟡 Planned |
+
+---
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -182,7 +200,17 @@ I don't build toy projects or demos. Every system I build is aimed at solving a 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 
-**Frontend**
+**Proficiency breakdown:**
+
+| Language | Proficiency | Primary Use |
+|---|---|---|
+| JavaScript / TypeScript | Expert | Full-stack web, APIs, tooling |
+| C++ | Advanced | DSA, competitive programming, systems |
+| Python | Advanced | ML/AI, data pipelines, scripting |
+| Java | Proficient | Backend services, Android |
+| Solidity | Intermediate | Smart contracts, DeFi protocols |
+
+### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -190,28 +218,45 @@ I don't build toy projects or demos. Every system I build is aimed at solving a 
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
-**Backend**
+I build frontend systems with a focus on performance, accessibility, and maintainability. My React work goes beyond component construction — I architect state management systems using Redux Toolkit, implement code splitting and lazy loading at scale, optimize rendering pipelines, and integrate complex real-time data flows via WebSocket and Server-Sent Events. Three.js work includes 3D city visualization for the Smart City project.
+
+### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Databases**
+Backend work centers on building APIs that are reliable, observable, and scalable. I have built RESTful and GraphQL APIs serving high-read-volume use cases, implemented rate limiting and caching strategies with Redis, designed multi-tenant data architectures, and built event-driven systems using message queues.
+
+### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**Blockchain & Web3**
+Database design is a core strength — I model schemas for both normalized relational data and document-oriented workloads. I have designed sharding strategies for MongoDB at scale, implemented Redis caching layers that reduced API response times by 60%+, and built read replicas and connection pooling setups for production systems under load.
+
+### Blockchain & Web3
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
 
-**Auth, Storage & Tools**
+My blockchain work is focused on the practical application layer — compliant DeFi infrastructure, identity protocols, and tokenized real-world assets. I write and audit Solidity contracts, work with ethers.js and web3.js for frontend integration, use Hardhat for testing and deployment, and understand EVM internals at the opcode level for gas optimization.
+
+### DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+
+I build CI/CD pipelines using GitHub Actions, containerize applications with Docker, and deploy across Vercel (frontend), Railway (backend), and Netlify. I understand infrastructure costs and make deployment decisions that balance performance, reliability, and operational cost.
+
+### Auth, Storage & Tooling
 
 ![Firebase](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
@@ -219,13 +264,25 @@ I don't build toy projects or demos. Every system I build is aimed at solving a 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-**DevOps & Hosting**
+---
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+## 🧠 Deep Technical Interests
+
+### Blockchain Banking & US Financial Regulation
+
+The intersection of decentralized finance and the US regulatory framework is the most technically and intellectually challenging space I have worked in. Building compliant blockchain banking products for the US market requires understanding not just smart contract development, but also:
+
+**Bank Secrecy Act (BSA):** The BSA is the foundational US anti-money laundering law. Any entity operating as a Money Services Business (MSB) — which most crypto-to-fiat services qualify as — must register with FinCEN, implement a written AML program, file Currency Transaction Reports (CTRs) for cash transactions over $10,000, and file Suspicious Activity Reports (SARs) when suspicious activity is detected.
+
+**FinCEN Guidance on Virtual Currency:** FinCEN's 2013 guidance and subsequent rulings establish that administrators and exchangers of virtual currency are MSBs subject to BSA requirements. My DeFi Banking Gateway is being built to comply with these requirements from day one — not as a retrofit, but as a core design constraint.
+
+**OFAC Sanctions Screening:** The Office of Foreign Assets Control maintains the SDN (Specially Designated Nationals) list — entities and individuals that US persons and companies are prohibited from transacting with. Every transaction in the Gateway is screened against the current SDN list in real time.
+
+**AML/KYC Program Requirements:** Under 31 CFR 1022.210, MSBs must establish AML programs including internal policies and procedures, designation of a compliance officer, ongoing training, and independent audit. The Gateway includes built-in tooling to support all four pillars.
+
+**SEC and CFTC Considerations:** Depending on the nature of tokens offered, the Securities and Exchange Commission (SEC) and Commodity Futures Trading Commission (CFTC) may have jurisdiction. The Gateway is being designed to only interact with tokens that have a clear commodity characterization (Bitcoin, Ethereum) or with regulated stablecoins, explicitly avoiding anything with security token characteristics to stay outside SEC jurisdiction.
+
+This is not just legal awareness — it shapes architectural decisions at every layer.
 
 ---
 
@@ -336,38 +393,7 @@ I write about the intersection of engineering and real-world systems — not beg
 
 ---
 
-## 🤝 Contact & Collaboration
 
-I'm looking to work with teams focused on advanced development — not feature sprints on CRUD apps, but projects with genuine engineering depth.
-
-<table>
-  <tr>
-    <td width="25%" valign="top" align="center">
-      <b>AI / ML Systems</b><br/><br/>
-      Production ML pipelines — not notebooks, but live systems handling real data at scale with observability and reliability.
-    </td>
-    <td width="25%" valign="top" align="center">
-      <b>Blockchain / DeFi</b><br/><br/>
-      US-regulated DeFi infrastructure combining smart contracts with compliance engineering and regulatory awareness.
-    </td>
-    <td width="25%" valign="top" align="center">
-      <b>High-Scale Architecture</b><br/><br/>
-      Systems where design decisions are genuinely hard — sharding, consistency trade-offs, real-time data processing at scale.
-    </td>
-    <td width="25%" valign="top" align="center">
-      <b>Smart City / Mobility</b><br/><br/>
-      Technology integrating with government data systems, sensor networks, or urban infrastructure at city scale.
-    </td>
-  </tr>
-</table>
-
-**What I bring:** Full-stack ownership (database → deployed UI) · Cross-domain thinking (finance + systems + algorithms + product) · Speed without sloppiness · Clear technical communication to non-technical stakeholders
-
-**Response time:** LinkedIn within 24 hours · Email within 48 hours
-
-> 📍 Based in Bhubaneswar & Jamshedpur, India &nbsp;·&nbsp; Available remotely across India and globally &nbsp;·&nbsp; Open to relocation for the right opportunity
-
----
 
 ## 🔗 All Links & Profiles
 
@@ -386,6 +412,21 @@ I'm looking to work with teams focused on advanced development — not feature s
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ankitsharma706.ankitsharma706)
 
 This profile integrates AFTERMA analytics — tracking profile reach, project engagement, and visitor trends. Unique visitor tracking, geographic heatmaps, and AI-powered engagement insights coming as AFTERMA ships.
+
+---
+## 📬 Contact & Collaboration
+
+I respond to every genuine outreach. If you are:
+
+- A **team building something ambitious** and need a full-stack engineer who can contribute at depth — reach out with what you are working on
+- An **investor or advisor** interested in the DeFi Banking, Smart City, or Workforce Technology spaces — happy to discuss the market and technical thesis
+- An **engineer** who wants to talk through architecture, algorithms, or career strategy — I enjoy these conversations
+- A **researcher** working on problems related to my interests (graph algorithms, AML detection, urban mobility) — always open to cross-disciplinary discussions
+- A **potential user** of any of the platforms described above — your feedback is invaluable at this stage
+
+**Response time:** LinkedIn within 24 hours, email within 48 hours.
+
+> Based in Bhubaneswar & Jamshedpur, India · Available remotely across India and globally · Open to relocating for the right opportunity
 
 ---
 
