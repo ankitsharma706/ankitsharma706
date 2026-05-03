@@ -11,6 +11,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Netlify Status](https://api.netlify.com/api/v1/badges/83bb25b3-48b6-4ee3-bbc8-cfd61de20a64/deploy-status)](https://app.netlify.com/projects/docsconduit/deploys)
 
 📍 Bhubaneswar & Jamshedpur, India &nbsp;·&nbsp; 🌐 Open to Remote — India & Global
 
